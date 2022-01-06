@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+    padding: 10px;
+}
+.note{
+    font-size: 20px;
+    color: black;
+}
+#song{
+    font-size: 25px;
+    color: rgba(2, 46, 2, 0.664);
+}
+canvas{
+    border:5px dotted rgb(8, 236, 8);
+    border-radius: 50px;
+}
+.start{
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: rgb(3, 48, 3);
+    color: darkseagreen;
+}
